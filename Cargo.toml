@@ -7,7 +7,7 @@ edition = "2021"
 
 [[bin]]
 name = "main"
-path = "src/guess_number.rs"
+path = "src/struct.rs"
 
 [dependencies]
 rand = "0.8.5"
